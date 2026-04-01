@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋
+
+I'm a undergraduate student from Hohai University, majoring in Communication Engineering.
 
 <!--
 **HozyChuan/HozyChuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
